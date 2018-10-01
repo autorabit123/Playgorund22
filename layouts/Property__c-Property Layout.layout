@@ -43,6 +43,10 @@
                 <behavior>Edit</behavior>
                 <field>Date_Closed__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Prop_Name__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

@@ -557,6 +557,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Bot_Command__c.Bot_Picks__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Bot_Command__c.Pattern__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1628,6 +1633,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Property__c.Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Property__c.Prop_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
