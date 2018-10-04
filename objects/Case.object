@@ -80,9 +80,21 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>CaseTest2__c</fullName>
+        <externalId>false</externalId>
+        <label>CaseTest2</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Case_Test1__c</fullName>
         <externalId>false</externalId>
-        <label>Case Test1</label>
+        <label>Case Test11</label>
         <length>25</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>

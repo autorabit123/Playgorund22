@@ -297,6 +297,7 @@
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
         <members>Case.BusinessHoursId</members>
+        <members>Case.CaseTest2__c</members>
         <members>Case.Case_Test1__c</members>
         <members>Case.ClosedDate</members>
         <members>Case.Comments</members>
