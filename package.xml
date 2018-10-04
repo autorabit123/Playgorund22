@@ -297,6 +297,7 @@
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
         <members>Case.BusinessHoursId</members>
+        <members>Case.Case_Test1__c</members>
         <members>Case.ClosedDate</members>
         <members>Case.Comments</members>
         <members>Case.ContactEmail</members>
@@ -902,6 +903,7 @@
         <members>Opportunity_Status_Change-1</members>
         <members>Post_Price_Changes_to_Slack-1</members>
         <members>Price_Change_Push_Notification-1</members>
+        <members>Test_PB-1</members>
         <name>Flow</name>
     </types>
     <types>
@@ -909,6 +911,7 @@
         <members>Opportunity_Status_Change</members>
         <members>Post_Price_Changes_to_Slack</members>
         <members>Price_Change_Push_Notification</members>
+        <members>Test_PB</members>
         <name>FlowDefinition</name>
     </types>
     <types>
